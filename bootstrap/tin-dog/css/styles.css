@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat-Black", sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-align: center;
 }
 
@@ -63,7 +63,7 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat-Black", sans-serif;
+  font-family: "Montserrat-Light", sans-serif;
 }
 
 /* Download Buttons */
